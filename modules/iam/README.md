@@ -38,9 +38,7 @@ Default:
 
 ```json
 [
-  "arn:aws:iam::294048959147:role/datalakes-aws-worker",
-  "arn:aws:iam::294048959147:role/datalakes-customer-service",
-  "arn:aws:iam::294048959147:role/customer-datalakes-prod-admin"
+  "arn:aws:iam::595280932656:role/segment-datalakes-production-access",
 ]
 ```
 
